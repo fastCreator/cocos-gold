@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "miner-appear",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1,
+  "sample": 5,
+  "speed": 3,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "b035fef0-304a-40d3-b510-f655ffb61c20"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "b7c67335-fb3e-4889-b513-246982d7ed44"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "234bd9a8-60f1-4a47-a7ab-21bf79385ae7"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "a3429a96-2027-48b2-b7d3-87b8fb8f3170"
+            }
+          },
+          {
+            "frame": 0.8,
+            "value": {
+              "__uuid__": "52c2d537-e734-4882-994c-e7e1e2eb95cf"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

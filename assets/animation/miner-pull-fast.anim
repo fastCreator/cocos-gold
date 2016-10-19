@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "miner-pull-fast",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1,
+  "sample": 6,
+  "speed": 2,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "eddf953c-0773-4965-a546-ffe584f89ae6"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "e25dec19-b556-4958-9f1f-9bdfa5485070"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "a11318d7-9988-46e9-8394-bc6cdaa08e74"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "efbb0e2a-f1b8-4d4f-8bcc-22fbd12fab07"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "047cbd05-563f-4561-8c13-8ec937653416"
+            }
+          },
+          {
+            "frame": 0.8333333333333334,
+            "value": {
+              "__uuid__": "6784ccc9-cef1-46d8-a0ff-50eb84b27bcb"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
